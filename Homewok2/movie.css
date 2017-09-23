@@ -1,0 +1,125 @@
+#all-body{
+	background:url(picture/background.png);
+	font-size:8pt;
+	font-family:Verdana, Geneva, sans-serif;
+	position:relative;
+	padding:0px;
+	margin:0px;
+}
+#header-background{
+	background:url(picture/bannerbackground.png);
+	background-repeat:repeat-x;
+	height:50px;
+	text-align: center;
+}
+#title{
+	font-size:24pt;
+	font-weight:bold;
+	font-family:Tahoma, Geneva, sans-serif;
+	text-align: center;
+}
+#second-header-background{
+	margin: 0px;
+	background: url(picture/rottenbackground.png);
+	background-repeat: repeat-x;
+	height:83px;
+	vertical-align:bottom;
+	overflow:hidden;
+}
+#comment{
+	width: 250px;
+	background-color: #A2B964;
+	font-family:Arial;
+	font-size: 8pt;
+	float: right;
+	margin-bottom: 20px;
+}
+#comment-head dl{
+	padding-left:10px;
+}
+#comment-head dt{
+	font-weight:bold;
+	margin-top:1em;
+	padding-left:10px;
+}
+#myframe{
+	border: 4px solid gray;
+	vertical-align: bottom;
+	width: 800px;
+	position: relative;
+	margin-left:auto;
+	margin-right:auto;
+	overflow: hidden;
+}
+.all-comment{
+	color:red;
+	font-weight:bold;
+	font-size:48pt;
+	vertical-align:14%;
+}
+.comment-number{
+	color:white;
+	font-size:8pt;
+	vertical-align:80%;
+	display:inline;
+}
+.each-comment{
+	float:left;
+}
+.comment-width{
+	width:47%;
+}
+.between-comment{
+	margin-left:2%;
+	margin-bottom: 2%;
+	margin-right: 2%;
+}
+.between-comment-right{
+	margin-bottom: 2%;
+}
+.comment-frame-below{
+	border:solid 2px gray;
+	padding:8px;
+	font-size:8pt;
+	font-weight:bold;
+	background-color:#E1D697;
+	overflow: hidden;
+}
+.margin-adding{
+	margin-top: 3em;
+}
+.left-width{
+	width:550px;
+	margin-top: 0px;
+}
+.mybottom{
+	height: 20px;
+    background-color:#A2B964;
+    width:800px;
+    text-align: center;
+    position: absolute;
+    bottom: -13px;
+    padding-top: 5px;
+}
+.foot-word{
+	vertical-align: top;
+}
+.people-img{
+	float: left;
+}
+.comment-img{
+	float: left;
+	margin-right: 5px;
+}
+.signal{
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	border: 0px;
+}
+.word-font{
+	font-style: italic;
+}
+.rotten-img{
+	vertical-align: bottom;
+}
